@@ -12,4 +12,4 @@ A Picture of the Finished Product:
 
 ----
 A video of the finished result can be viewed [there](https://www.bilibili.com/video/BV1QV4y1t7v4/?vd_source=f2dc1e591f6e512f4cba01f0d8eccc00)
-Copyright © 2013 by Greer Liu, Siying Wang, Yaping Mei, Tian Xu, Junyi Zhang, Chengyu Wu, Xinyue Wang, All rights reserved.
+Copyright © 2023 by Greer Liu, Siying Wang, Yaping Mei, Tian Xu, Junyi Zhang, Chengyu Wu, Xinyue Wang, All rights reserved.

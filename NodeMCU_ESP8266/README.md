@@ -47,4 +47,4 @@ To get started with this project, follow these steps:
 5. Run the WeChat Mini Program and establish a successful connection with the OneNET platform.
 
 ----
-Copyright © 2013 by Greer Liu, Siying Wang, Yaping Mei, Tian Xu, Junyi Zhang, Chengyu Wu, Xinyue Wang, All rights reserved.
+Copyright © 2023 by Greer Liu, Siying Wang, Yaping Mei, Tian Xu, Junyi Zhang, Chengyu Wu, Xinyue Wang, All rights reserved.
