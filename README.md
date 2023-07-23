@@ -1,5 +1,5 @@
 # SmartFusionRover
-----
+
 A Picture of the Finished Product:
 ![](/images/智能探测小车.jpg)
 ## Functional Description
