@@ -1,0 +1,7 @@
+--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include -I..\..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\..\Drivers\CMSIS\Include -I..\..\Drivers\ -I..\..\User -I..\..\Middlewares -I..\..\Drivers\BSP\DHT11 -I..\..\Drivers\BSP\GY-30 -I..\..\..\1.0 -I..\..\Drivers\BSP\SGP30 -I..\..\Drivers\STM32F1xx_HAL_Driver\Src -I..\..\Drivers\SYSTEM -I..\..\Drivers\BSP\MQ
+-I D:\【正点】F103_demolibrary\智能家居\1.0\Projects\MDK-ARM\RTE
+-I D:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0
+-I D:\Keil5\ARM\CMSIS\Include
+-I D:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+-D__UVISION_VERSION="514" -DSTM32F10X_HD -DUSE_HAL_DRIVER -DSTM32F103xE
+-o ..\..\output\usmart_str.o --omf_browse ..\..\output\usmart_str.crf --depend ..\..\output\usmart_str.d "..\..\Drivers\BSP\USMART\usmart_str.c"
