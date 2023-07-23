@@ -1,0 +1,22 @@
+
+<view style="margin-top:20px"class="userinfo">
+  <image class="img" src="../images/温度1.png"></image>
+  <text>温度={{temp}}℃</text>
+</view>
+<view style="margin-top:20px"class="userinfo">
+  <image class="img" src="../images/湿度1.png"></image>
+  <text>湿度={{hum}}%</text>
+</view>
+<view style="margin-top:20px"class="userinfo">
+  <image class="img" src="../images/光照强度.png"></image>
+  <text>光照强度={{sun}}Lux</text>
+</view>
+<view style="margin-top:20px"class="userinfo">
+  <image class="img" src="../images/二氧化碳.png"></image>
+  <text>二氧化碳浓度={{co2}}ppm</text>
+</view>
+<view style="margin-top:20px"class="userinfo">
+  <image class="img" src="../images/TVOC.png"></image>
+  <text>TVOC浓度={{tvoc}}ppd</text>
+</view>
+
